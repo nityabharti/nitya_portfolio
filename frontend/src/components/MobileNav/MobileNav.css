@@ -1,0 +1,12 @@
+.mobile-nav {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+}
+@media (min-width: 600px) {
+  .mobile-nav {
+    display: none;
+  }
+}
