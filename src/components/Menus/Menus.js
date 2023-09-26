@@ -4,9 +4,6 @@ import Zoom from "react-reveal/Zoom";
 import Fade from "react-reveal/Fade";
 import {
   Link,
-  Button,
-  Element,
-  Events,
   animateScroll as scroll,
   scrollSpy,
   scroller,
