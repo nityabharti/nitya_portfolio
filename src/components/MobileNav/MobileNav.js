@@ -6,9 +6,9 @@ const MobileNav = () => {
   return (
     <>
       <div className="mobile-nav">
-        <div className="mobile nav-header">
+        <div className="mobile-nav-header">
           <GiHamburgerMenu size={30} />
-          <span>My Portfolio App</span>
+          <span className="mobile-nav-title">My Portfolio App</span>
         </div>
       </div>
     </>

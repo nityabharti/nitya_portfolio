@@ -38,9 +38,9 @@
   width: 160px;
 }
 .home-buttons .btn-cv:hover {
-  opacity: 90%;
+  opacity: 80%;
   transition: 1s;
-  width: 170px;
+  /* width: 170px; */
 }
 .theme-btn {
   display: flex;
