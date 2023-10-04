@@ -7,7 +7,7 @@ const MobileNav = () => {
     <>
       <div className="mobile-nav">
         <div className="mobile-nav-header">
-          <GiHamburgerMenu size={30} />
+          <GiHamburgerMenu size={30} className="mobile-nav-icon" />
           <span className="mobile-nav-title">My Portfolio App</span>
         </div>
       </div>
